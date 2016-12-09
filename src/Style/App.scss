@@ -1,6 +1,7 @@
 body{
   background-color: lightgray;
 }
+
 .mainapp{
   width: 28%;
   height: 48%;
@@ -12,6 +13,7 @@ body{
   margin-top: 12%;
   box-shadow: 2px 3px 10px #888888;
 }
+
 .mainapp{
   .inputemail{
     padding: 12px;
@@ -39,9 +41,9 @@ body{
     border: none;
     cursor: pointer;
     width: 60%;
-
   }
 }
+
 h2{
   text-align: center;
   margin-top: 6%;
@@ -52,7 +54,6 @@ h2{
   font-weight: 500;
   line-height: 26.4px;
   }
-
 
 .avatar {
     width: 40%;
