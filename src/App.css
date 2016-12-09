@@ -1,0 +1,55 @@
+body {
+  background-color: lightgray; }
+
+.mainapp {
+  width: 28%;
+  height: 48%;
+  background-color: white;
+  margin-left: 37%;
+  border-radius: 2%;
+  padding-bottom: 1%;
+  padding-top: 2%;
+  margin-top: 12%;
+  box-shadow: 2px 3px 10px #888888; }
+
+.mainapp .inputemail {
+  padding: 12px;
+  border: solid 1px gainsboro;
+  -webkit-transition: box-shadow 0.3s, border 0.3s;
+  transition: box-shadow 0.3s, border 0.3s;
+  margin-left: 21%;
+  width: 53%;
+  margin-top: 6%; }
+.mainapp .inputpassword {
+  padding: 12px;
+  border: solid 1px gainsboro;
+  -webkit-transition: box-shadow 0.3s, border 0.3s;
+  transition: box-shadow 0.3s, border 0.3s;
+  margin-left: 21%;
+  width: 53%;
+  margin-top: 6%; }
+.mainapp .loginbutton {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 27px 84px;
+  border: none;
+  cursor: pointer;
+  width: 60%; }
+
+h2 {
+  text-align: center;
+  margin-top: 6%;
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px; }
+
+.avatar {
+  width: 40%;
+  border-radius: 50%;
+  margin-left: 29%; }
+
+/*# sourceMappingURL=App.css.map */
