@@ -3,7 +3,7 @@
 
 
 
-![Screenshot](Main.png)
+![Screenshot](./src/Docs/Main.png)
 
 
 The default email set is: abcd@xyz.com
@@ -14,4 +14,4 @@ On proper authentication with email id , the password page is rendered.
 
 
 
-![Screenshot](Pasword.png)
+![Screenshot](./src/Docs/Pasword.png)
